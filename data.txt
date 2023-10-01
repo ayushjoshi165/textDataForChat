@@ -1,1 +1,38 @@
 My dog name is Bhuru
+
+Ayush Joshi 
+San Jose, CA | ayushjoshi165@gmail.com | (669)-203-4187 | https://www.linkedin.com/in/ayush-joshi165 Summary 
+• 4+ years of experience as a software engineer in both Frontend and Full stack development. 
+• Proficient in modern JavaScript frameworks and libraries such as React, Angular, Node.js, and Typescript. 
+• Strong track record of delivering 5+ high-priority projects using SDLC and Agile methodologies 
+• Certified cloud practitioner with Amazon Web Services (AWS), adding valuable experience in cloud computing 
+  
+Professional Experience 
+Software Engineer- Summer Internship | Omnicell, Mountain View, CA, USA | May 2022 – Aug 2022 (4 Months) 
+• Independently designed and developed the front end of an HL7 message automation app for healthcare systems using Angular resulting in a 50% reduction in order placement time. 
+• Collaborated with back-end team to integrate with C#, and .NET REST services deployed on Microsoft Azure cloud 
+• Practiced Agile methodologies by participating in multiple sprint cycles during my internship 
+Software Engineer | Tata Consultancy Services (TCS) | June 2018 – Nov 2021 (3 years 6 months) 
+• Created 150+ user interfaces (UI) using Angular, and JavaScript, aligning them with Figma designs, and seamlessly integrating them with  250+ RESTful APIs. 
+• Utilized Node.js, Express.js, and Java Spring and Spring Boot frameworks to construct REST API endpoints to fuel large-scale web  applications. 
+• Collaborated on CRM module development for BFSI client app as Full-stack Engineer, using Angular/React, Java, Spring Boot, and  RESTful APIs which will serve multiple clients in the banking domain 
+• Migrated multiple modules of legacy mainframe applications to modern JavaScript framework (React.js, HTML5, CSS3) and integrated  Java Spring boot RESTful APIs 
+• Designed and implemented the PDF format invoice generation module using modern JavaScript libraries such as JSPDF which results in  increased customer satisfaction 
+• Developed a decentralized electrical vehicle charging application as a blockchain developer, utilizing Angular 9 and Node for the front end and Solidity language for the back-end smart contract development on the Ethereum platform. 
+• Developed a decentralized electrical vehicle charging application as a blockchain developer, utilizing Angular 9 for the front end,  Node.js for API development, and Solidity language for the back-end smart contract development on the Ethereum platform. • Conducted unit testing with JUnit and Jasmine for quality assurance and utilized Jira for project management and issue tracking. 
+Graduate Teaching Assistant | Northeastern University | Sep 2021 – April 2023 (1 year 6 months) 
+• Taught Dart programming, data structures, and algorithms to students and provided coding help and doubt-clearing support. • Utilized the Flutter framework to build cross-platform mobile applications for both iOS and Android platforms. 
+• Instructed and assessed Java and Python programming courses for 30+ graduate students. 
+Technical Skills  
+• Frameworks/Library/Programming languages: Angular, React, Java, Python, JavaScript, D3JS, Spring MVC, Spring Boot, Spring, JS pdf • Web technologies and cloud: JavaScript, JSP, HTML, CSS, Bootstrap, Webpack, Babel, microservices, Node.js, Azure cloud, AWS • Database: Oracle, MySQL, SQL Server, Postgres (relational databases), MongoDB (non-relational or NoSQL database) 
+• Platform/tools: GitHub, JIRA, JUnit, SDLC, Agile, Gradle, Windows, LINUX, Kubernetes, Kafka, Docker, CI/CD, Jenkins 
+Education 
+  
+• Master of Science in Computer Software Engineering | Northeastern University, USA | GPA - 3.92/4.00 | April 2023  
+• Bachelor of Engineering in Computer Science and Engineering | Govt. Engineering College, India | June 2018 
+Certification and Training 
+• Certified Cloud Practitioner | Amazon Web Services | Jan 2023 
+• Certified JavaScript, NodeJS, Angular Developer | Udemy | Jan 2020 
+• Certified Java/J2EE, C++, C developer | Thinking Machines | June 2018 
+I excel in full-stack development with expertise in Ruby, Redis, process improvement, Nginx, front-end, automated testing, Apache, AI, Rust, database administration, backend, Vue, JS, HTML, DOM, code review, AngularJS, Node, machine learning,  collaboration, strategic planning, information system, Excel, distributed system, Rails, Flask, Django, big data, artificial intelligence, UI/UX, Swift, ReactJS, Kotlin, ES6, computer engineering, Scrum, Git, e-commerce, continuous improvement, test  development, SEO, React Native, multi-threaded, Go, Flux, software architecture, Linux kernel, IP, Confluence, computer architecture, assembly, Spring MVC, Scala, Hadoop, cookies, networking, ASP.NET, Ajax, pipeline, application developer, TDD,  Terraform, Ruby on Rails, MVC, JSON, CI, AWS, automated tests, UX, ORM, GCP, decision making, SAS and AWS.
+
